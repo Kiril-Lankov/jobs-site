@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "671e66d483005901cae20a4c"
+  },
+  "owner": {
+    "$oid": "671e63ce5d64001624267bd5"
+  },
+  "title": "Frontend Dev",
+  "techStack": {
+    "sql": true,
+    "nosql": true,
+    "javascript": true,
+    "java": false,
+    "python": false,
+    "c": false,
+    "htmlcss": false,
+    "angular": true,
+    "react": true,
+    "laravel": false
+  },
+  "date": "2024-10-27T16:14:12.502Z",
+  "position": "frontend",
+  "text": "With over 20 years of experience, we’ve focused on creating one of the most exciting, forward-thinking sites in the world. Every day we’re looking for new ways to make things bigger and better.\nAs a company, we believe in enabling our employees to reach their full potential. We help them grow professionally, care for them as people, and inspire them to expand their knowledge and skill sets.",
+  "category": {
+    "frontend": true,
+    "backend": false
+  },
+  "level": {
+    "junior": true,
+    "mid": false,
+    "senior": false,
+    "lead": false
+  },
+  "way": {
+    "remote": true,
+    "hybrid": true,
+    "onSite": false
+  },
+  "role": [
+    "Create, manage and modify web content using our Content Management System",
+    "Use HTML, CSS, JS to create web pages, website components, etc.",
+    "Create and manage HTML newsletters/landing pages and other promotional materials",
+    "Work closely with designers and apply responsive and pixel perfect designs, ensuring functionality across different platforms"
+  ],
+  "allQuestionnaire": [
+    {
+      "_id": "671e663783005901cae20a37",
+      "questionnaire": [
+        {
+          "answers": [
+            "Structured Query Language ",
+            "Program Language",
+            "library"
+          ],
+          "countAnswers": 3,
+          "question": "What is JS?",
+          "_id": {
+            "$oid": "671e663783005901cae20a38"
+          }
+        },
+        {
+          "answers": [
+            "Structured Query Language ",
+            "library",
+            "type in JS"
+          ],
+          "countAnswers": 3,
+          "question": "What is Angular?",
+          "_id": {
+            "$oid": "671e663783005901cae20a39"
+          }
+        },
+        {
+          "answers": [
+            "Program Language",
+            "",
+            "Extension for JS",
+            "nothing"
+          ],
+          "countAnswers": 3,
+          "question": "What is TypeScript?",
+          "_id": {
+            "$oid": "671e663783005901cae20a3a"
+          }
+        }
+      ],
+      "type": "js",
+      "owner": "671e63ce5d64001624267bd5"
+    }
+  ],
+  "candidates": [
+    {
+      "userId": "671e692a83005901cae20b0f",
+      "email": "stefank5248@gmail.com",
+      "selectedAnswers": {
+        "What is JS?": "Structured Query Language ",
+        "What is Angular?": "library",
+        "What is TypeScript?": "Program Language"
+      },
+      "_id": {
+        "$oid": "671e81bee92a814672883f31"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "671e677c83005901cae20a70"
+  },
+  "owner": {
+    "$oid": "671e670983005901cae20a5e"
+  },
+  "title": "Backend Dev",
+  "techStack": {
+    "sql": true,
+    "nosql": true,
+    "javascript": false,
+    "java": true,
+    "python": false,
+    "c": true,
+    "htmlcss": false,
+    "angular": false,
+    "react": false,
+    "laravel": true
+  },
+  "date": "2024-10-27T16:17:00.396Z",
+  "position": "backend",
+  "text": "ICT Strypes is a company with extensive experience in software development. With a team of over 700 people, we take ownership of application roadmaps for our clients and structure their overall application landscape.\n\nFounded in 2008 as a small startup, ICT Strypes became part of the Dutch ICT Group in 2014. The ICT Group, with a history of delivering IT solutions since 1978, now has subsidiaries in the Netherlands, Bulgaria, Portugal, Germany, and Sweden.\n\nOur teams consist of talented hard-working professionals who love sharing their knowledge, experience, and joyous moments with their colleagues!\n\nYou can join us at our offices in Sofia, Plovdiv, Burgas, and Varna, or choose to work remotely from anywhere in Bulgaria.",
+  "category": {
+    "frontend": false,
+    "backend": true
+  },
+  "level": {
+    "junior": false,
+    "mid": true,
+    "senior": false,
+    "lead": false
+  },
+  "way": {
+    "remote": false,
+    "hybrid": true,
+    "onSite": false
+  },
+  "role": [
+    "Regular/Senior level of programming in Java",
+    "Strong OOP knowledge",
+    "Experience with Linux/Unix"
+  ],
+  "allQuestionnaire": [
+    {
+      "_id": "671e65b683005901cae20a2f",
+      "questionnaire": [
+        {
+          "answers": [
+            "library",
+            "Program Language",
+            "Structured Query Language "
+          ],
+          "countAnswers": 3,
+          "question": "What is Angular?",
+          "_id": {
+            "$oid": "671e65b683005901cae20a30"
+          }
+        },
+        {
+          "answers": [
+            "Structured Query Language ",
+            "Program Language",
+            "library"
+          ],
+          "countAnswers": 3,
+          "question": "What is SQL?",
+          "_id": {
+            "$oid": "671e65b683005901cae20a31"
+          }
+        },
+        {
+          "answers": [
+            "library",
+            "Structured Query Language ",
+            "Program Language"
+          ],
+          "countAnswers": 3,
+          "question": "What is React?",
+          "_id": {
+            "$oid": "671e65b683005901cae20a32"
+          }
+        }
+      ],
+      "type": "sql",
+      "owner": "671e63ce5d64001624267bd5"
+    }
+  ],
+  "candidates": [
+    {
+      "userId": "671e692a83005901cae20b0f",
+      "email": "stefank5248@gmail.com",
+      "selectedAnswers": {
+        "What is Angular?": "Program Language",
+        "What is SQL?": "Program Language",
+        "What is React?": "library"
+      },
+      "_id": {
+        "$oid": "671e832403d1e78879e72d7f"
+      }
+    }
+  ],
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "671e691183005901cae20af7"
+  },
+  "owner": {
+    "$oid": "671e670983005901cae20a5e"
+  },
+  "title": "Backend dev",
+  "techStack": {
+    "sql": true,
+    "nosql": true,
+    "javascript": false,
+    "java": true,
+    "python": true,
+    "c": false,
+    "htmlcss": false,
+    "angular": false,
+    "react": false,
+    "laravel": true
+  },
+  "date": "2024-10-27T16:23:45.890Z",
+  "position": "backend",
+  "text": "Built around exceptional individuals, the end-to-end software solutions we delivered won the trust of huge enterprise corporations like ASML - one of the most influential companies in the world!\n\nThey are the largest manufacturer of lithography machines that are used for the most important step in making semiconductors. More than 90% of the semiconductors in the world are currently manufactured using ASML systems.",
+  "category": {
+    "frontend": false,
+    "backend": true
+  },
+  "level": {
+    "junior": false,
+    "mid": false,
+    "senior": true,
+    "lead": true
+  },
+  "way": {
+    "remote": true,
+    "hybrid": true,
+    "onSite": true
+  },
+  "role": [
+    "Create the software design and review it with your colleagues.",
+    "Implementing the design in C and the unit tests for it (mostly in Python).",
+    "Download the code to one of the simulations of lithography machines and test it"
+  ],
+  "allQuestionnaire": [
+    {
+      "_id": "671e65d683005901cae20a34",
+      "questionnaire": [
+        {
+          "answers": [
+            "Structured Query Language ",
+            "Program Language"
+          ],
+          "countAnswers": 2,
+          "question": "What is NOSQL?",
+          "_id": {
+            "$oid": "671e65d683005901cae20a35"
+          }
+        }
+      ],
+      "type": "nosql",
+      "owner": "671e63ce5d64001624267bd5"
+    }
+  ],
+  "candidates": [],
+  "__v": 0
+}]
